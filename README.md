@@ -24,4 +24,3 @@ The Dataset is downloaded from Kaggle and has a historical data reference from 2
 **Deliverables**:
 - Python scripts for data preprocessing, EDA, and time series prediction models.
 - Visualizations illustrating consumption patterns, model evaluation metrics, and predicted future trends.
-- A comprehensive report summarizing the findings and recommendations for optimizing household electricity consumption.
