@@ -7,8 +7,8 @@ Households and utilities often lack predictive foresight, making demand spikes, 
 The objective is to  build robust time series forecasting models that can accurately predict future Energy  consumption trends based on historical data. The insights derived from this analysis can empower  households to optimize energy usage, plan efficiently, and contribute to sustainable energy  practices. The focus is on the Electrical energy Consumption. 
 
 **Source**
-The Dataset is downloaded from Kaggle and has a historical data reference from 2006 to 2010.
-  https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
+The Dataset is downloaded from UC Irvine Machine Learning Repository and has a historical data reference from 2006 to 2010.
+  https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 
 **Dataset Description**:
