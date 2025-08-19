@@ -23,5 +23,6 @@ The Dataset is downloaded from UC Irvine Machine Learning Repository and has a h
 9. Sub_metering_3: Electricity consumption in sub-metering 3 (e.g., water heater).
 
 **Deliverables**:
-- Python scripts for data preprocessing, EDA, and time series prediction models.
+- Python scripts/ Colab Notebook for data preprocessing, EDA, and time series prediction models.
+- Annotation of Code in the Colab Notebook
 - Visualizations illustrating consumption patterns, model evaluation metrics, and predicted future trends.
