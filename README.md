@@ -1,4 +1,4 @@
-# Household-Energy-consumption-using-LSTM
+# Household-Energy-consumption-Predictive-Analysis
 
 **Problem Statement**: 
 Households and utilities often lack predictive foresight, making demand spikes, billing shocks, and grid strain harder to manage. This POC tests whether an LSTM sequence model can reliably predict short-term consumption trends using past loads and exogenous variables (e.g., temperature), and whether such forecasts can inform actionable insights.
