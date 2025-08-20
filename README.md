@@ -28,4 +28,4 @@ The Dataset is downloaded from UC Irvine Machine Learning Repository and has a h
 **Deliverables**:
 - Python scripts/ Colab Notebook for data preprocessing, EDA, and time series prediction models.
 - Annotation of Code in the Colab Notebook
-- Visualizations illustrating consumption patterns, model evaluation metrics, and predicted future trends.
+- Visualizations illustrating consumption patterns, model evaluation metrics, and predicted trends.
